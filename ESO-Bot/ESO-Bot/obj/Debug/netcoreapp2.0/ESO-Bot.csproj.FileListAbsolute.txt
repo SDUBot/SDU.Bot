@@ -1,0 +1,11 @@
+C:\Users\Trux\source\repos\ESO-Bot\ESO-Bot\bin\Debug\netcoreapp2.0\ESO-Bot.deps.json
+C:\Users\Trux\source\repos\ESO-Bot\ESO-Bot\bin\Debug\netcoreapp2.0\ESO-Bot.runtimeconfig.json
+C:\Users\Trux\source\repos\ESO-Bot\ESO-Bot\bin\Debug\netcoreapp2.0\ESO-Bot.runtimeconfig.dev.json
+C:\Users\Trux\source\repos\ESO-Bot\ESO-Bot\bin\Debug\netcoreapp2.0\ESO-Bot.dll
+C:\Users\Trux\source\repos\ESO-Bot\ESO-Bot\obj\Debug\netcoreapp2.0\ESO-Bot.csprojResolveAssemblyReference.cache
+C:\Users\Trux\source\repos\ESO-Bot\ESO-Bot\obj\Debug\netcoreapp2.0\ESO-Bot.csproj.CoreCompileInputs.cache
+C:\Users\Trux\source\repos\ESO-Bot\ESO-Bot\obj\Debug\netcoreapp2.0\ESO-Bot.AssemblyInfoInputs.cache
+C:\Users\Trux\source\repos\ESO-Bot\ESO-Bot\obj\Debug\netcoreapp2.0\ESO-Bot.AssemblyInfo.cs
+C:\Users\Trux\source\repos\ESO-Bot\ESO-Bot\bin\Debug\netcoreapp2.0\ESO-Bot.pdb
+C:\Users\Trux\source\repos\ESO-Bot\ESO-Bot\obj\Debug\netcoreapp2.0\ESO-Bot.dll
+C:\Users\Trux\source\repos\ESO-Bot\ESO-Bot\obj\Debug\netcoreapp2.0\ESO-Bot.pdb
